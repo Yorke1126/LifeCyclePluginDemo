@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LifeCyclePluginDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/LifeCyclePluginDemo.iml" group="LifeCyclePluginDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LifeCyclePluginDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asm_lifecycle_plugin/asm_lifecycle_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/asm_lifecycle_plugin/asm_lifecycle_plugin.iml" group="LifeCyclePluginDemo/asm_lifecycle_plugin" />
     </modules>
   </component>
 </project>

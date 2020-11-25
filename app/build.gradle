@@ -1,4 +1,16 @@
 apply plugin: 'com.android.application'
+apply plugin: 'yorke.asm.lifecycle'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        maven {url '../yorke_lifecycle_repo'}
+    }
+  dependencies {
+      classpath 'yorke.lifecycle.plugin:asm_lifecycle_plugin:1.0.0'
+  }
+}
 
 android {
     compileSdkVersion 29
